@@ -3,17 +3,12 @@
 This project involves implementing different sorting algorithms and understanding their time complexities (Big O notation). The project is to be completed in teams of two, emphasizing pair programming for the mandatory tasks.
 
 
-## Background Context
-
-This project is designed for groups of two students. Each pair should collaborate closely, especially on the mandatory part of the project.
-
 ## Resources
 
 - [Sorting algorithm](https://en.wikipedia.org/wiki/Sorting_algorithm)
 - [Big O notation](https://en.wikipedia.org/wiki/Big_O_notation)
 - [Sorting algorithms animations](https://www.toptal.com/developers/sorting-algorithms)
 - [15 sorting algorithms in 6 minutes (video)](https://www.youtube.com/watch?v=kPRA0W1kECg)  
-  **Warning:** This video may trigger seizures for people with photosensitive epilepsy. Viewer discretion is advised.
 
 ## Learning Objectives
 
@@ -38,7 +33,6 @@ This project is designed for groups of two students. Each pair should collaborat
 
 - **Repository:** [holbertonschool-sorting_algorithms](https://github.com/Xavier308/holbertonschool-sorting_algorithms.git)
 
-## More Info
 
 ### Data Structures and Functions
 
